@@ -17,4 +17,4 @@ Create the contract from your secure eth address that you want to control the co
 Blockchain Technology like 'Ethereum' is distributed and decentralized that make it can be applied to develop a tamper proof-employee attendance system. Conventional Systems do not have the feature to detect whether any particular records have experienced any unauthorized changes. On contrast, using Blockchain technology, no person can deny that he did changes to the database. The blockchain-based employee attendance system is required to provide a database that keeps its reliability and integrity and tamper proof. The control lies in every person that can access the Blockchain. But to make changes in it, every person has to accept the changes. So it is distributed and decentralized but at the same time more secure than the conventional systems.
 
 #### This Projects are built using the following technologies:
- Hyperledger Composer Rest Server, Hyperledger Fabric, Flask, JavaScript, NodeJS, Docker, HTML, CSS.
+ Solidity (Ethereum), Hyperledger Composer Rest Server, Hyperledger Fabric, Flask, JavaScript, NodeJS, Docker, HTML, CSS.
